@@ -1,0 +1,13 @@
+{
+  "pizzas": [
+    {
+      "img_url": "margherita.jpg",
+      "desc": "Margherita",
+      "category": "Vegetariana",
+      "price": 7.00
+    },
+    {
+      
+    },
+  ]
+}
